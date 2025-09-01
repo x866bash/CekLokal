@@ -50,7 +50,7 @@ Output JSON (`repos_scan.json`):
 
 📸 Contoh
 
-(Pict.png)
+[](Pict.png)
 
 📜 Lisensi
 
