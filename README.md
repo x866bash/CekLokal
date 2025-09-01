@@ -50,7 +50,7 @@ Output JSON (`repos_scan.json`):
 
 📸 Contoh
 
-![contoh](https://raw.githubusercontent.com/x866bash/CekLokal/main/assets/logo.png)
+![contoh](https://raw.githubusercontent.com/x866bash/CekLokal/main/assets/Pict.png)
 
 📜 Lisensi
 
