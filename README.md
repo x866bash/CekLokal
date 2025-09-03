@@ -17,6 +17,7 @@ Tool ini digunakan untuk:
 ```bash
 chmod +x scanner.sh
 ./scanner.sh
+```
 
 ---
 
@@ -46,11 +47,14 @@ Output JSON (`repos_scan.json`):
 }
 
 ```
+
 ---
 
 📸 Contoh
 
 ![contoh](https://raw.githubusercontent.com/x866bash/CekLokal/main/Pict.png)
+
+---
 
 📜 Lisensi
 
