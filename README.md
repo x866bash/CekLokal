@@ -89,7 +89,7 @@ Output seharusnya seperti: `xterm-256color`, `screen-256color`, atau `alacritty`
 ════════════════════════════════════════════════════════════
 
 User      : root
-Hostname  : feny
+Hostname  : hostname
 Tanggal   : Sun Sep 14 04:49:29 WIB 2025
 Direktori : /home/hostname/project/github/TOOLS/CekLokal
 
@@ -115,7 +115,7 @@ Script ini berevolusi dari versi sederhana menjadi versi lengkap & profesional. 
   - Ikon emoji 📂 ⚡ ✅ untuk menambah kesan modern.
 2.  Progress Bar
   - Script awal: progress bar sederhana, menimbulkan bug "ESAI!!".
-  - Versi final: progress bar dengan tput el → tidak ada teks dobel/bug.
+  - Versi final: progress bar dengan `tput el` → tidak ada teks dobel/bug.
   - Ditambahkan status animasi (HAMPIR SELESAI!!, SELESAI!!).
 3. Fitur Scan Repo
   - Awal: hanya list direktori.
@@ -135,11 +135,13 @@ Script ini berevolusi dari versi sederhana menjadi versi lengkap & profesional. 
 ---
 
 ## Pict
-Loading...
-Loading...
-Loading...
+![Pict1](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/Pict1.png)
+---
+![Pict2](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/Pict2.png)
+---
+![Pict3](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/Pict3.png)
 
 ---
 
 ## 📜 Lisensi
-MIT License – bebas digunakan, dimodifikasi, dan dikembangkan lebih lanjut.
+MIT [License](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/LICENSE) – bebas digunakan, dimodifikasi, dan dikembangkan lebih lanjut.
