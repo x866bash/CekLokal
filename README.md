@@ -138,8 +138,6 @@ Script ini berevolusi dari versi sederhana menjadi versi lengkap & profesional. 
 ![Pict1](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/Pict1.png)
 ---
 ![Pict2](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/Pict2.png)
----
-![Pict3](https://raw.githubusercontent.com/x866bash/CekLokal/refs/heads/main/Pict3.png)
 
 ---
 
